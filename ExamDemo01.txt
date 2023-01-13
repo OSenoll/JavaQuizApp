@@ -1,0 +1,4 @@
+İstanbul kaç yılında fethedilmiştir;1453;1552;1832;1321;1453;midTerm;
+Walter white hangi dizide oynamaktadır;Fringe;Breaking Bad;Lost;Oz;Breaking Bad;midTerm;
+Rusya'nın başkenti neresidir;Krasnadar;İstanbul;Moskova;Sochi;Moskova;midTerm;
+Demir elementinin atom numarası nedir;12;15;23;26;26;midTerm;
